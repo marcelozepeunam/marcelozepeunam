@@ -30,7 +30,7 @@
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
     <!--Pandas-->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnumfocus.org%2Fproject%2Fpandas&psig=AOvVaw2MulY4H7N0fg9gElLisydj&ust=1714846649684000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjLxN6M8oUDFQAAAAAdAAAAABAE" alt="pandas" width="40" height="40"/> </a>
+    
      <!--Git-->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
      <!--Linux-->
